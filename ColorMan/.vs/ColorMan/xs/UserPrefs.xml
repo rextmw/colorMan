@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{72688C90-F235-0189-A114-4F10153FC43E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GO.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player1.cs" Line="104" Column="18" />
+      <File FileName="Assets/Scripts/GO.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Levels.cs" Line="18" Column="19" />
+      <File FileName="../FindPath/Assets/Scripts/GO.cs" Line="123" Column="16" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ColorMan" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GO.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ColorMan PreferredExecutionTarget="e7b63522-2d10-4ada-b688-74e311e2f99a" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bef565e9-4148-48ef-b961-a6a2153ab05c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
